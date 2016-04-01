@@ -1,0 +1,15 @@
+theta 
+   -1.5010
+    0.8188
+    0.0186
+    0.4979
+
+
+Gz_estm =
+ 
+    0.01857 z + 0.4979
+  ----------------------
+  z^2 - 1.501 z + 0.8188
+ 
+Sample time: 0.1 seconds
+Discrete-time transfer function.
